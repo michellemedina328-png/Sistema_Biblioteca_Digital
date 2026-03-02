@@ -9,7 +9,6 @@ El presente proyecto consiste en el desarrollo de un Sistema de Gestión de Bibl
 
 El sistema permite administrar libros, usuarios y préstamos mediante una estructura organizada y eficiente, simulando el funcionamiento básico de una biblioteca digital.
 
----
 
 ## Objetivo
 
@@ -21,7 +20,6 @@ Desarrollar un sistema funcional que permita:
 - Buscar libros por título, autor o categoría.
 - Aplicar correctamente colecciones en Python dentro de un entorno orientado a objetos.
 
----
 
 ## Diseño del Sistema
 
@@ -50,9 +48,8 @@ El sistema está compuesto por tres clases principales:
   - Búsqueda por diferentes criterios.
   - Listado de libros prestados por usuario.
 
----
 
-## ⚙️ Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
 - Agregar libros    
 - Registrar usuarios 
@@ -62,7 +59,7 @@ El sistema está compuesto por tres clases principales:
 
 ---
 
-## 📚 Colecciones Utilizadas
+## Colecciones Utilizadas
 
 - **Tupla** → Almacena título y autor del libro como datos inmutables.  
 - **Lista** → Gestiona los libros prestados por cada usuario.  
