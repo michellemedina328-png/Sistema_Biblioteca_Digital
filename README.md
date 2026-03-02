@@ -51,8 +51,8 @@ El sistema está compuesto por tres clases principales:
 
 ## Funcionalidades Implementadas
 
-- Agregar libros    
-- Registrar usuarios 
+- Agregar y eliminar libros    
+- Registrar y dar de baja a usuarios 
 - Prestar libros  
 - Devolver libros con validación de posesión  
 - Buscar libros por título, autor o categoría  
